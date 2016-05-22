@@ -1,0 +1,10 @@
+{
+  "name": "blank-js",
+  "version": "0.0.0",
+  "description": "A blank project to quickly test ideas",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edele Gizatullin <me@edele.ru>",
+  "license": "ISC"
+}
