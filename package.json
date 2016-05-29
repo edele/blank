@@ -1,7 +1,7 @@
 {
-  "name": "blank-js",
+  "name": "",
   "version": "0.0.0",
-  "description": "A blank project to quickly test ideas",
+  "description": "",
   "scripts": {
     "dev": "webpack --watch",
     "build": "webpack",
