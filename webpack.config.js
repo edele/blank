@@ -2,7 +2,7 @@ module.exports = {
     entry: './scripts/index.js',
 
     output: {
-        filename: './build.js'
+        filename: './build/script.js'
     },
 
     module: {
